@@ -1,3 +1,4 @@
+# llx404 on github
 import os, requests, easygui, time, random, threading, ctypes
 from colorama import Fore
 from fake_useragent import UserAgent as ua
